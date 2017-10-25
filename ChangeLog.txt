@@ -1,0 +1,17 @@
+commit 06e869afb13a3ce690686bba7b944ce00b92a93e
+Author: Pengfei Zhang <pzhang11@stevens.edu>
+Date:   Tue Oct 24 21:41:35 2017 -0400
+
+    reorganized
+
+commit 486ffb1de06c3d3f64ae08cc33062995052f3653
+Author: Pengfei Zhang <pzhang11@stevens.edu>
+Date:   Tue Oct 24 21:38:37 2017 -0400
+
+    first push
+
+commit 69d6d717f26b07a911adda140c357ad2df29bf97
+Author: Andrew <andysim3d@gmail.com>
+Date:   Thu Oct 12 11:45:49 2017 -0400
+
+    Create README.md
